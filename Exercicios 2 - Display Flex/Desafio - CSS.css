@@ -1,0 +1,85 @@
+.DivTopo{
+    background-color: #915C5C;
+    width: 75vw;
+    height: 30vh;
+    border: 10px #000000 solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.DivInternaTopo{
+    background-color: white;
+    border: 10px blue solid;
+    height: 60%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Paragrafo{
+    font-family: Arial;
+    color: blue;
+    font-size: 26px;
+    font-weight: 1000;
+}
+
+.Textos {
+    list-style: none; 
+    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0%;
+}
+
+.Textos_Linha1 {
+    background-color: blue;
+    width: 70vw;
+    height: 5vh;
+}
+
+.Textos_Linha2 {
+    background-color: purple;
+    width: 30vw;
+    height: 5vh;
+}
+
+.Textos_Linha3 {
+    background-color: green;
+    width: 65vw;
+    height: 5vh;
+}
+
+.Textos_Linha4 {
+    background-color: yellow;
+    width: 50vw;
+    height: 5vh;
+}
+
+.Rodape {
+    list-style: none; 
+    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+    padding: 0%;
+}
+
+.Esquerda_Rodape{
+    background-color: red;
+    width: 40vw;
+    height: 5vh;
+}
+
+.Centro_Rodape{
+    background-color: dodgerblue;
+    width: 20vw;
+    height: 5vh;
+}
+
+.Direita_Rodape{
+    background-color:green;
+    width: 40vw;
+    height: 5vh;
+}

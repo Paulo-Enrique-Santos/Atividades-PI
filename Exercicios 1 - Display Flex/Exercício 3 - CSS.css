@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+.DivPai {
+    width: 500px;
+    height: 500px;
+    background-color: #00e7eb;
+    display: flex; 
+}
+
+.DivFilha {
+    width: 50%;
+    height: 50%;
+    background-color: #ff312e;
+}
+
+.Paragrafo {
+    color: dodgerblue;
+    background-color: black;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: 1000;
+}
+
+.DivPaiDois{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(23, 255, 166);
+}
+
+.DivFilhaDois{
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(0, 236, 12);
+}

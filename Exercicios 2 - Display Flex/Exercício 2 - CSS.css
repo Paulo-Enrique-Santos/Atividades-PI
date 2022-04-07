@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+.DivUm{
+    background-color: rgb(255, 0, 255);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.DivDois{
+    background-color: #fd51d1;
+    width: 250px;
+    height: auto;
+    border: 20px red solid;
+}
+
+.DivTres{
+    background-color: rgb(22, 255, 177);
+    height: 88%;
+    width: 30%;
+}
